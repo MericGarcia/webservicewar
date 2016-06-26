@@ -1,1 +1,2 @@
  -Dhudson.util.ProcessTree.disable=true
+--httpPort=9090
